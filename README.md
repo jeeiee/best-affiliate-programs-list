@@ -66,7 +66,7 @@ Below is a curated list of reputable affiliate programs categorized by industry:
   - **Sign-Up Link**: [American Express Affiliates](https://www.americanexpress.com/us/partner/affiliate-program/)
 
 
-# Top 50 Affiliate Programs for 2025
+# Top 190+ Affiliate Programs for 2025
 
 This table lists the top 190+ affiliate programs for 2025 along with their commission structures, cookie durations, and direct links to apply.
 
