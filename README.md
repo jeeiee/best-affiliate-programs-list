@@ -2,15 +2,6 @@
 
 Welcome to the **Affiliate Programs Directory** repository, a curated list of top affiliate programs to help marketers and content creators monetize their platforms effectively.
 
-## About TapRefer.com
-
-[TapRefer.com](https://www.taprefer.com) is a leading affiliate program directory that connects publishers with high-quality affiliate opportunities. Our platform offers:
-
-- **Comprehensive Listings**: Access a wide range of affiliate programs across various industries.
-- **Detailed Insights**: Get in-depth information on commission rates, cookie durations.
-- **User Reviews**: Read and contribute reviews to help the community make informed decisions.
-
-Explore more at [TapRefer.com](https://www.taprefer.com).
 
 ## Table of Contents
 
@@ -135,7 +126,16 @@ This list includes a mix of high-paying affiliate programs across various niches
 4. **Promote Your Content**: Utilize SEO, social media, and email marketing to drive traffic.
 5. **Analyze and Optimize**: Monitor your performance and adjust your strategies for better results.
 
-For a more detailed guide, visit [TapRefer.com's Getting Started Guide](https://www.taprefer.com/getting-started).
+For a more , visit [TapRefer.com](https://www.taprefer.com/).
+
+## About TapRefer
+
+[TapRefer](https://www.taprefer.com) is a leading affiliate program directory that connects publishers with high-quality affiliate opportunities. Our platform offers:
+
+- **Comprehensive Listings**: Access a wide range of affiliate programs across various industries.
+- **Detailed Insights**: Get in-depth information on commission rates, cookie durations.
+- **User Reviews**: Read and contribute reviews to help the community make informed decisions.
+
 
 ## Contributing
 
