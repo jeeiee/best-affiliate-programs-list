@@ -1,6 +1,6 @@
 # Affiliate Programs Directory
 
-Welcome to the **Affiliate Programs Directory** repository—a curated list of top affiliate programs to help marketers and content creators monetize their platforms effectively.
+Welcome to the **Affiliate Programs Directory** repository, a curated list of top affiliate programs to help marketers and content creators monetize their platforms effectively.
 
 ## About TapRefer.com
 
