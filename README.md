@@ -7,7 +7,7 @@ Welcome to the **Affiliate Programs Directory** repository, a curated list of to
 [TapRefer.com](https://www.taprefer.com) is a leading affiliate program directory that connects publishers with high-quality affiliate opportunities. Our platform offers:
 
 - **Comprehensive Listings**: Access a wide range of affiliate programs across various industries.
-- **Detailed Insights**: Get in-depth information on commission rates, cookie durations, and payout structures.
+- **Detailed Insights**: Get in-depth information on commission rates, cookie durations.
 - **User Reviews**: Read and contribute reviews to help the community make informed decisions.
 
 Explore more at [TapRefer.com](https://www.taprefer.com).
