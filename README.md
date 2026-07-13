@@ -269,6 +269,7 @@ This table lists the top 190+ affiliate programs for 2025 along with their commi
 | 195  | [TapRefer](https://taprefer.com/)                        | up to $2,498.50 Per Sale                                    | 60 days         | [Apply Here](https://taprefer.com/affiliates) |
 | 196  | [PuchiDen](https://puchiden.app)                        | 10% of every top-up, Recurring for 12m                      | 30 days         | [Apply Here](https://puchiden.app/forms/join-our-affiliate-program/) |
 | 197  | [Kafkai](https://kafkai.com)                            | 10% Recurring for 12m                                       | 30 days         | [Apply Here](https://kafkai.com/en/affiliate/) |
+| 198  | [ReplyGain.com](https://replygain.com)                            | 20% Recurring for life                                       | 30 days         | [Apply Here](https://replygain.com/affiliate/) |
 
 
 This list includes a mix of high-paying affiliate programs across various niches, catering to different audiences and marketing strategies. Each program offers unique benefits and commission structures that can help affiliates maximize their earnings.
