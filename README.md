@@ -66,6 +66,18 @@ Below is a curated list of reputable affiliate programs categorized by industry:
   - **Sign-Up Link**: [American Express Affiliates](https://www.americanexpress.com/us/partner/affiliate-program/)
 
 
+### Logistics & Operations Software
+
+- **CyberForward**
+  - **Description**: Connected freight operating system for freight forwarders and brokers: quotes, jobs, documents and customer communication in one workspace, with QuickBooks and ERPNext connections.
+  - **Commission Rate**: 20% of net collected revenue for each referred customer's first 12 paid months (25% accelerator), 90-day cookie, monthly payouts.
+  - **Sign-Up Link**: [CyberForward Affiliate Program](https://cyberforward.us/partners)
+
+- **Oakhampton Operations Twin**
+  - **Description**: Operational digital twin: upload one plan, test a layout, capacity, labour or capex decision against a deterministic baseline and receive decision evidence, from AUD 149 + GST.
+  - **Commission Rate**: 20% of net collected revenue (AUD) for each referred client's first 12 paid months (25% accelerator), 30-day cookie, quarterly payouts.
+  - **Sign-Up Link**: [Oakhampton Digital Twin Partner Programme](https://twin.oakhampton.ai/partners)
+
 # Top 190+ Affiliate Programs for 2025
 
 This table lists the top 190+ affiliate programs for 2025 along with their commission structures, cookie durations, and direct links to apply.
