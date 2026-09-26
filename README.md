@@ -289,6 +289,7 @@ This list includes a mix of high-paying affiliate programs across various niches
 
 
 *Note: Commission rates and program details are subject to change. Please refer to the respective program websites for the most current information.*
+| 200  | [ThreadFox](https://threadfox.vip)                            | 50% of each $49 kit sale and upgrades; 30% of managed Reddit campaigns                    | 30 days | [Apply Here](https://threadfox.vip/affiliates) |
 
 ## How to Get Started
 
