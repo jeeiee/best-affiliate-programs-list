@@ -78,6 +78,13 @@ Below is a curated list of reputable affiliate programs categorized by industry:
   - **Commission Rate**: 20% of net collected revenue (AUD) for each referred client's first 12 paid months (25% accelerator), 30-day cookie, quarterly payouts.
   - **Sign-Up Link**: [Oakhampton Digital Twin Partner Programme](https://twin.oakhampton.ai/partners)
 
+### Proxies & Web Data
+
+- **Proxydocker**
+  - **Description**: HTTP, HTTPS, SOCKS4 and SOCKS5 proxy lists checked around the clock, with reliability history for every proxy and a download API for developers. Plans from $9.95 to $49.95 a month.
+  - **Commission Rate**: 50% of the first payment, then 30% of every renewal for as long as the customer stays subscribed, 60-day cookie, automatic approval, $20 minimum payout (PayPal, Wise, bank transfer or USDT).
+  - **Sign-Up Link**: [Proxydocker Affiliate Program](https://www.proxydocker.com/en/affiliate/)
+
 # Top 190+ Affiliate Programs for 2025
 
 This table lists the top 190+ affiliate programs for 2025 along with their commission structures, cookie durations, and direct links to apply.
