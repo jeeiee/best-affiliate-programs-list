@@ -334,3 +334,12 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 *Disclaimer: The information provided in this repository is for educational purposes. Commission rates and program details are subject to change. Please verify the current terms on the respective affiliate program websites.*
+
+
+## Software Marketplaces & Partner Networks
+
+- **Power CM Partners**
+  - **Description**: Free software partner network with a catalogue of tracked offers and campaign links.
+  - **Commission Rate**: Standard eligible Power CM subscriptions pay 25% of net revenue for 12 months and eligible one-time purchases pay 20%. Product-specific exceptions are shown in the catalogue.
+  - **Attribution**: 30 days from a valid click.
+  - **Sign-Up Link**: [Power CM Partners](https://partners.powercm-software.com/)
