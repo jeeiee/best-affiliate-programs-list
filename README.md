@@ -292,6 +292,7 @@ This table lists the top 190+ affiliate programs for 2025 along with their commi
 | 199  | [Screenpipe](https://screenpipe.com)                            | 25% of the first paid transaction, one time                    | Not publicly stated | [Apply Here](https://screenpipe.com/affiliate) |
 | 200 | [aiFetchly](https://www.aifetchly.com) | 20% Recurring direct commission + 5% recurring second-tier commission | 90 days | [Apply Here](https://www.aifetchly.com/affiliate) |
 
+| 201 | [VideoGen](https://videogen.io) | 30% recurring commission on referred subscriptions | Up to 60 days | [Apply Here](https://videogen.io/affiliate-program) |
 
 This list includes a mix of high-paying affiliate programs across various niches, catering to different audiences and marketing strategies. Each program offers unique benefits and commission structures that can help affiliates maximize their earnings.
 
