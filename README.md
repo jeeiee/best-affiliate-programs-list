@@ -101,7 +101,7 @@ These examples help you choose a niche before exploring the larger table. Descri
 
 ## Affiliate program comparison table
 
-Compare the 202 listed programs below. Commission and tracking values are reported terms, with limited source checks described in [Sources and verification](#sources-and-verification).
+Compare the 203 listed programs below. Commission and tracking values are reported terms, with limited source checks described in [Sources and verification](#sources-and-verification).
 
 | No. | Affiliate Program | Commission Structure  | Cookie Duration | Apply Link   |
 |------|-------------------------|-----------------------------------|-----------------|--------------------|
@@ -307,6 +307,7 @@ Compare the 202 listed programs below. Commission and tracking values are report
 | 200 | [aiFetchly](https://www.aifetchly.com) | 20% Recurring direct commission + 5% recurring second-tier commission | 90 days | [Apply Here](https://www.aifetchly.com/affiliate) |
 | 201 | [VideoGen](https://videogen.io) | 30% recurring commission on referred subscriptions | Up to 60 days | [Apply Here](https://videogen.io/affiliate-program) |
 | 202 | [Power CM Partners](https://partners.powercm-software.com/) | Standard eligible Power CM products: 25% of net subscription payments for 12 months; 20% of eligible one-time purchases. Other product terms vary. | 30-day attribution window | [Apply Here](https://partners.powercm-software.com/) |
+| 203 | [tlooto AI](https://tlooto.com/)                    | 30% Recurring for 12 months                               | 365 days        | [Apply Here](https://tlooto.com/influencer/en-US) |
 
 The row number is a navigation aid, not a score or ranking of program quality. “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
@@ -341,7 +342,7 @@ Eligibility depends on the individual program and payout provider. Confirm suppo
 
 Start with audience fit and product usefulness, then compare commission and payout terms. There is no single best program for every creator, niche, or country.
 
-### Are all 202 table entries verified for 2026?
+### Are all 203 table entries verified for 2026?
 
 No. The 2026 title identifies this edition of the directory. It does not mean that every rate, tracking window, or application link was checked in 2026. Treat unverified entries as research leads and confirm details with the operator.
 
