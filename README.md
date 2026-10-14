@@ -1,6 +1,6 @@
 # Affiliate Programs Directory 2026: SaaS, AI Tools, Hosting & More
 
-Compare **202 affiliate programs in the main table** by reported commission structure, recurring payment terms, cookie or attribution window, and application link. This directory is for bloggers, newsletter publishers, YouTube creators, consultants, and software-focused audiences looking for products to recommend.
+Compare **205 affiliate programs in the main table** by reported commission structure, recurring payment terms, cookie or attribution window, and application link. This directory is for bloggers, newsletter publishers, YouTube creators, consultants, and software-focused audiences looking for products to recommend.
 
 **Want to find a program for your niche?** Browse [TapRefer](https://taprefer.com/) for more affiliate opportunities, or use the comparison table below as a starting point.
 
@@ -101,7 +101,7 @@ These examples help you choose a niche before exploring the larger table. Descri
 
 ## Affiliate program comparison table
 
-Compare the 204 listed programs below. Commission and tracking values are reported terms, with limited source checks described in [Sources and verification](#sources-and-verification).
+Compare the 205 listed programs below. Commission and tracking values are reported terms, with limited source checks described in [Sources and verification](#sources-and-verification).
 
 | No. | Affiliate Program | Commission Structure  | Cookie Duration | Apply Link   |
 |------|-------------------------|-----------------------------------|-----------------|--------------------|
@@ -309,6 +309,7 @@ Compare the 204 listed programs below. Commission and tracking values are report
 | 202 | [Power CM Partners](https://partners.powercm-software.com/) | Standard eligible Power CM products: 25% of net subscription payments for 12 months; 20% of eligible one-time purchases. Other product terms vary. | 30-day attribution window | [Apply Here](https://partners.powercm-software.com/) |
 | 203 | [tlooto AI](https://tlooto.com/)                    | 30% Recurring for 12 months                               | 365 days        | [Apply Here](https://tlooto.com/influencer/en-US) |
 | 204 | [LaunchSpy](https://launchspy.io/) | 40% Recurring for the customer's lifetime | 60 days (promo code never expires) | [Apply Here](https://partners.launchspy.io/register) |
+| 205 | [Repostit](https://repostit.io/) | 20% recurring on valid, fully paid, non-refunded referred subscriptions while active. 60-day validation; US$10 minimum; monthly PayPal or bank payouts; smaller balances carry forward. Terms checked 2026-10-14. | 360-day attribution window | [Apply Here](https://partners.repostit.io/register) |
 
 The row number is a navigation aid, not a score or ranking of program quality. “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
