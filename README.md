@@ -101,7 +101,7 @@ These examples help you choose a niche before exploring the larger table. Descri
 
 ## Affiliate program comparison table
 
-Compare the 205 listed programs below. Commission and tracking values are reported terms, with limited source checks described in [Sources and verification](#sources-and-verification).
+Compare the 206 listed programs below. Commission and tracking values are reported terms, with limited source checks described in [Sources and verification](#sources-and-verification).
 
 | No. | Affiliate Program | Commission Structure  | Cookie Duration | Apply Link   |
 |------|-------------------------|-----------------------------------|-----------------|--------------------|
@@ -310,6 +310,7 @@ Compare the 205 listed programs below. Commission and tracking values are report
 | 203 | [tlooto AI](https://tlooto.com/)                    | 30% Recurring for 12 months                               | 365 days        | [Apply Here](https://tlooto.com/influencer/en-US) |
 | 204 | [LaunchSpy](https://launchspy.io/) | 40% Recurring for the customer's lifetime | 60 days (promo code never expires) | [Apply Here](https://partners.launchspy.io/register) |
 | 205 | [Repostit](https://repostit.io/) | 20% recurring on valid, fully paid, non-refunded referred subscriptions while active. 60-day validation; US$10 minimum; monthly PayPal or bank payouts; smaller balances carry forward. Terms checked 2026-10-14. | 360-day attribution window | [Apply Here](https://partners.repostit.io/register) |
+| 206 | [JG Core](https://jgcore.com/)                        | Up to 40% per sale, rates vary by product (checked 2026-10-19) | 60 days         | [Apply Here](https://jgcore.com/earn) |
 
 The row number is a navigation aid, not a score or ranking of program quality. “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
