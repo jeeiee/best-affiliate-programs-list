@@ -13,7 +13,7 @@
 
 - [ ] I checked README and open PRs for duplicates.
 - [ ] I used official terms and marked unknown values as not publicly stated.
-- [ ] I added one entry in the existing five-column table.
-- [ ] I checked table numbering and all README count references.
+- [ ] I added one entry in the existing four-column table.
+- [ ] I did not add row numbers or hard-coded program counts.
 - [ ] I left existing listings and their order unchanged.
 - [ ] I disclosed any relationship to the program.
