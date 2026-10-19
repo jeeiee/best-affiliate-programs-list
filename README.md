@@ -4,7 +4,7 @@ Compare **205 affiliate programs in the main table** by reported commission stru
 
 **Want to find a program for your niche?** Browse [TapRefer](https://taprefer.com/) for more affiliate opportunities, or use the comparison table below as a starting point.
 
-**README editorial update:** October 4, 2026. This is a content and structure update, not a verification date for every program. Many entries are historical or contributor-submitted; confirm availability and current terms before applying. Category examples below are additional listings and are not included in the 202-row table count.
+**README editorial update:** October 4, 2026. This is a content and structure update, not a verification date for every program. Many entries are historical or contributor-submitted; confirm availability and current terms before applying. Category examples below are additional listings and are not included in the 205-row table count.
 
 ## Contents
 
@@ -344,7 +344,7 @@ Eligibility depends on the individual program and payout provider. Confirm suppo
 
 Start with audience fit and product usefulness, then compare commission and payout terms. There is no single best program for every creator, niche, or country.
 
-### Are all 204 table entries verified for 2026?
+### Are all 205 table entries verified for 2026?
 
 No. The 2026 title identifies this edition of the directory. It does not mean that every rate, tracking window, or application link was checked in 2026. Treat unverified entries as research leads and confirm details with the operator.
 
@@ -379,7 +379,9 @@ For a new listing, include:
 - The date you checked the official source.
 - Any important product-specific exceptions.
 
-Add one row to the existing comparison table using its five-column format. Avoid duplicate listings, unsupported earning claims, and new sections after the disclaimer.
+Add one row to the existing comparison table using its five-column format. Append the next available row number; do not reuse a number already proposed in another open pull request. Update the program counts in the introduction, table description, editorial note, and FAQ to match the merged rows. Keep TapRefer and ReplyGain in their existing positions. Avoid duplicate listings, unsupported earning claims, and new sections after the disclaimer.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the submission checklist and review expectations.
 
 For a correction, include the existing program name, the proposed change, and a source link. You can [open an issue](https://github.com/jeeiee/best-affiliate-programs-list/issues/new) or submit a pull request.
 
