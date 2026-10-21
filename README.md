@@ -311,6 +311,7 @@ Compare programs by their reported commission structures and attribution windows
 | [Repostit](https://repostit.io/) | 20% recurring on valid, fully paid, non-refunded referred subscriptions while active. 60-day validation; US$10 minimum; monthly PayPal or bank payouts; smaller balances carry forward. Terms checked 2026-10-14. | 360-day attribution window | [Apply Here](https://partners.repostit.io/register) |
 | [Hipol](https://hipol.co.uk/) — 18+ non-sexual live AI conversations | 20% of eligible monthly subscription revenue received; qualifying renewals under the [terms](https://hipol.co.uk/affiliates/terms). One-off packages and free minutes excluded; £25 minimum, reviewed manual payouts. Checked 2026-10-15. | 30 days; last consented link before new verified signup | [Apply Here](https://hipol.co.uk/affiliates) |
 | [JG Core](https://jgcore.com/) | Up to 40% per sale, rates vary by product (checked 2026-10-19); subscriptions: 20% of paid invoices for the first 12 months per submitted terms | 60 days | [Apply Here](https://jgcore.com/earn) |
+| [Julius AI](https://julius.ai/) | 50% recurring for the first 12 months (up to $25,000 per customer) | 60 days | [Apply Here](https://partners.dub.co/julius/apply) |
 
 “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
