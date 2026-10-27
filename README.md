@@ -314,6 +314,7 @@ Compare programs by their reported commission structures and attribution windows
 | [Julius AI](https://julius.ai/) | 50% recurring for the first 12 months (up to $25,000 per customer) | 60 days | [Apply Here](https://partners.dub.co/julius/apply) |
 | [NowPlayingWidget](https://nowplaying.taoftware.com/) | 50% one-time on eligible license sales via Lemon Squeezy; fees apply (checked 2026-10-21) | 30-day last-referrer window; browser/cookie dependent | [Apply Here](https://nowplaying.lemonsqueezy.com/affiliates) |
 | [Scraiber](https://scraiber.com/) | 30% of every payment, recurring for 24 months after the referral's first purchase; no cap (checked 2026-10-22) | 60 days | [Apply Here](https://scraiber.promotekit.com) |
+| [Newly](https://newly.app/affiliates) | 60% of each referred new customer's revenue, recurring for their first 6 months | 30 days | [Apply Here](https://newly.app/affiliates/join) |
 
 “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
