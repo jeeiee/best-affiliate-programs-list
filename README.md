@@ -315,6 +315,7 @@ Compare programs by their reported commission structures and attribution windows
 | [NowPlayingWidget](https://nowplaying.taoftware.com/) | 50% one-time on eligible license sales via Lemon Squeezy; fees apply (checked 2026-10-21) | 30-day last-referrer window; browser/cookie dependent | [Apply Here](https://nowplaying.lemonsqueezy.com/affiliates) |
 | [Scraiber](https://scraiber.com/) | 30% of every payment, recurring for 24 months after the referral's first purchase; no cap (checked 2026-10-22) | 60 days | [Apply Here](https://scraiber.promotekit.com) |
 | [Newly](https://newly.app/affiliates) | 60% of each referred new customer's revenue, recurring for their first 6 months | 30 days | [Apply Here](https://newly.app/affiliates/join) |
+| [HOL Guard](https://hol.org/guard) | 25% recurring on qualifying net subscription revenue for each referred paid customer's first 12 months (checked 2026-10-28) | Not publicly stated | [Apply Here](https://hol.org/guard/affiliates/apply) |
 
 “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
