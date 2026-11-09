@@ -317,6 +317,7 @@ Compare programs by their reported commission structures and attribution windows
 | [Newly](https://newly.app/affiliates) | 60% of each referred new customer's revenue, recurring for their first 6 months | 30 days | [Apply Here](https://newly.app/affiliates/join) |
 | [HOL Guard](https://hol.org/guard) | 25% recurring on qualifying net subscription revenue for each referred paid customer's first 12 months (checked 2026-10-28) | Not publicly stated | [Apply Here](https://hol.org/guard/affiliates/apply) |
 | [Fair Value Calculator](https://www.fairvalue-calculator.com/) — stock valuation tool | 30% of every net payment (excl. VAT), recurring for as long as the referred customer keeps paying; refunds deducted; monthly PayPal payout from €25 (checked 2026-10-29) | 90 days; or referral code entered at signup | [Apply Here](https://www.fairvalue-calculator.com/affiliate-program#anmelden) |
+| [Convertlyft](https://convertlyft.com/) — web analytics, CRO and SEO | 30% of every payment, recurring for 12 months from the customer's first payment; no cap | 30-day cookie; last click wins | [Apply Here](https://partners.convertlyft.com/join) |
 
 “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
