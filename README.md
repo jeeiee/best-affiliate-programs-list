@@ -317,6 +317,7 @@ Compare programs by their reported commission structures and attribution windows
 | [Newly](https://newly.app/affiliates) | 60% of each referred new customer's revenue, recurring for their first 6 months | 30 days | [Apply Here](https://newly.app/affiliates/join) |
 | [HOL Guard](https://hol.org/guard) | 25% recurring on qualifying net subscription revenue for each referred paid customer's first 12 months (checked 2026-10-28) | Not publicly stated | [Apply Here](https://hol.org/guard/affiliates/apply) |
 | [Fair Value Calculator](https://www.fairvalue-calculator.com/) — stock valuation tool | 30% of every net payment (excl. VAT), recurring for as long as the referred customer keeps paying; refunds deducted; monthly PayPal payout from €25 (checked 2026-10-29) | 90 days; or referral code entered at signup | [Apply Here](https://www.fairvalue-calculator.com/affiliate-program#anmelden) |
+| [Genaya](https://genaya.com/) - AI platform to run a service business (scheduling, CRM, AI phone receptionist, invoices and payments) | 15% recurring for 12 months per referred customer; 20% once the partner has 26 active referred customers and 25% at 51 ([terms](https://affiliate.genaya.com/terms), checked 2026-11-11); monthly NET-30 bank transfer, $50 minimum | 60 days | [Apply Here](https://affiliate.genaya.com/) |
 
 “For life” describes the reported recurring commission arrangement; it does not guarantee income or override the program's current terms.
 
