@@ -15,6 +15,7 @@ Explore **affiliate programs in the main table** by reported commission structur
   - [Finance](#finance)
   - [Logistics & operations software](#logistics--operations-software)
   - [Proxies & web data](#proxies--web-data)
+  - [AI / API platforms](#ai--api-platforms)
 - [Affiliate program comparison table](#affiliate-program-comparison-table)
 - [How to get started](#how-to-get-started)
 - [Frequently asked questions](#frequently-asked-questions)
@@ -97,6 +98,13 @@ These examples help you choose a niche before exploring the larger table. Descri
   - **Description**: HTTP, HTTPS, SOCKS4 and SOCKS5 proxy lists checked around the clock, with reliability history for every proxy and a download API for developers. Plans from $9.95 to $49.95 a month.
   - **Commission Rate**: 50% of the first payment, then 30% of every renewal for as long as the customer stays subscribed, 60-day cookie, automatic approval, $20 minimum payout (PayPal, Wise, bank transfer or USDT).
   - **Sign-Up Link**: [Proxydocker Affiliate Program](https://www.proxydocker.com/en/affiliate/)
+
+### AI / API Platforms
+
+- **Synap402**
+  - **Description**: OpenAI-compatible inference API for open-weight LLMs (Qwen3-coder, Gemma, gpt-oss) with zero data retention; no sign-up required to make the first call.
+  - **Commission Rate**: 10% of what each referred account spends, up to $500 per account. 14-day hold before a reward is eligible, then paid as Synap credit or cashed out from $50, in USDC on Base or back to a card.
+  - **Sign-Up Link**: [Synap402 Referral Program](https://synap402.com/referrals.html)
 
 ## Affiliate program comparison table
 
